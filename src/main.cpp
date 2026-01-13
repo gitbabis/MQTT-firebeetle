@@ -234,4 +234,4 @@ void loop() { // Infinite execution loop that keeps the microcontroller running
 
   handleTemperature(); // Executes the sensor monitoring and automated MQTT
                        // reporting logic.
-} // End of the main program loop..
+} // End of the main program loop.
